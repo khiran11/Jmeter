@@ -1,0 +1,71 @@
+line 1 column 16 - Warning: unknown attribute "lang"
+line 1 column 41 - Warning: <meta> lacks "content" attribute
+line 1 column 318 - Warning: unknown attribute "crossorigin"
+line 196 column 16 - Warning: link lacks "type" attribute
+line 196 column 527 - Warning: unknown attribute "property"
+line 196 column 572 - Warning: unknown attribute "property"
+line 196 column 617 - Warning: unknown attribute "property"
+line 196 column 718 - Warning: unknown attribute "property"
+line 196 column 904 - Warning: unknown attribute "property"
+line 196 column 982 - Warning: unknown attribute "property"
+line 196 column 1,037 - Warning: unknown attribute "property"
+line 196 column 1,118 - Warning: unknown attribute "property"
+line 196 column 1,196 - Warning: unknown attribute "property"
+line 196 column 1,273 - Warning: unknown attribute "property"
+line 196 column 1,384 - Warning: unknown attribute "property"
+line 196 column 1,432 - Warning: unknown attribute "property"
+line 196 column 1,481 - Warning: unknown attribute "property"
+line 196 column 6,539 - Warning: unknown attribute "crossorigin"
+line 196 column 6,609 - Warning: unknown attribute "crossorigin"
+line 196 column 7,251 - Warning: <style> lacks "type" attribute
+line 196 column 7,304 - Warning: <style> lacks "type" attribute
+line 197 column 272 - Warning: <style> lacks "type" attribute
+line 201 column 71 - Warning: <style> lacks "type" attribute
+line 202 column 343 - Warning: <style> lacks "type" attribute
+line 202 column 6,620 - Warning: <style> lacks "type" attribute
+line 202 column 8,278 - Warning: <script> lacks "type" attribute
+line 202 column 8,441 - Warning: <script> lacks "type" attribute
+line 202 column 8,558 - Warning: <script> lacks "type" attribute
+line 202 column 9,461 - Warning: <style> lacks "type" attribute
+line 206 column 18 - Warning: unknown attribute "property"
+line 206 column 88 - Warning: unknown attribute "property"
+line 206 column 501 - Warning: unknown attribute "property"
+line 206 column 579 - Warning: unknown attribute "property"
+line 206 column 634 - Warning: unknown attribute "property"
+line 206 column 1,288 - Warning: unknown attribute "property"
+line 206 column 1,470 - Warning: unknown attribute "async"
+line 206 column 1,470 - Warning: <script> lacks "type" attribute
+line 206 column 1,563 - Warning: <script> lacks "type" attribute
+line 209 column 50 - Warning: unknown attribute "async"
+line 209 column 177 - Warning: unknown attribute "sizes"
+line 209 column 289 - Warning: unknown attribute "sizes"
+line 209 column 641 - Warning: <style> lacks "type" attribute
+line 331 column 23 - Warning: unknown attribute "itemscope"
+line 331 column 23 - Warning: unknown attribute "itemtype"
+line 331 column 502 - Error: <header> is not recognized!
+line 331 column 502 - Warning: discarding unexpected <header>
+line 331 column 705 - Warning: unknown attribute "itemprop"
+line 331 column 821 - Error: <nav> is not recognized!
+line 331 column 821 - Warning: discarding unexpected <nav>
+line 331 column 997 - Warning: unknown attribute "data-gpmodal-trigger"
+line 331 column 997 - Warning: unknown attribute "aria-label"
+line 331 column 997 - Warning: unknown attribute "role"
+line 331 column 1,114 - Error: <svg> is not recognized!
+line 331 column 1,114 - Warning: discarding unexpected <svg>
+line 331 column 1,220 - Error: path is not recognized!
+line 331 column 1,220 - Warning: discarding unexpected path
+line 331 column 1,619 - Warning: discarding unexpected </svg>
+line 331 column 1,629 - Error: <svg> is not recognized!
+line 331 column 1,629 - Warning: discarding unexpected <svg>
+line 331 column 1,735 - Error: path is not recognized!
+line 331 column 1,735 - Warning: discarding unexpected path
+line 331 column 2,142 - Warning: discarding unexpected </svg>
+line 331 column 2,148 - Warning: trimming empty <span>
+line 331 column 2,178 - Warning: unknown attribute "aria-expanded"
+line 331 column 2,178 - Warning: unknown attribute "aria-controls"
+line 331 column 2,178 - Warning: unknown attribute "data-nav"
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML 4.01 Transitional
+292 warnings, 63 errors were found!
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.

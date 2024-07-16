@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1719140836769,1205,HomePageRequest,200,OK,Users 1-1,text,false,"The result was the wrong size: It was 93,254 bytes, but should have been less than or equal to 15,000 bytes.",93254,268,5,5,https://artoftesting.com/java-for-testers,1005,0,426
+1719140836769,1005,HomePageRequest-0,301,Moved Permanently,Users 1-1,text,true,,720,134,5,5,http://artoftesting.com/java-for-testers,1005,0,426
+1719140837774,200,HomePageRequest-1,200,OK,Users 1-1,text,true,,92534,134,5,5,https://artoftesting.com/java-for-testers,196,0,122
+1719140837168,839,HomePageRequest,200,OK,Users 1-3,text,false,"The result was the wrong size: It was 93,219 bytes, but should have been less than or equal to 15,000 bytes.",93219,268,4,4,https://artoftesting.com/java-for-testers,646,0,55
+1719140837168,646,HomePageRequest-0,301,Moved Permanently,Users 1-3,text,true,,718,134,4,4,http://artoftesting.com/java-for-testers,646,0,55
+1719140837814,193,HomePageRequest-1,200,OK,Users 1-3,text,true,,92501,134,4,4,https://artoftesting.com/java-for-testers,187,0,116
+1719140836967,1052,HomePageRequest,200,OK,Users 1-2,text,false,"The result was the wrong size: It was 93,249 bytes, but should have been less than or equal to 15,000 bytes.",93249,268,4,4,https://artoftesting.com/java-for-testers,852,0,228
+1719140836967,852,HomePageRequest-0,301,Moved Permanently,Users 1-2,text,true,,716,134,4,4,http://artoftesting.com/java-for-testers,852,0,228
+1719140837820,199,HomePageRequest-1,200,OK,Users 1-2,text,true,,92533,134,4,4,https://artoftesting.com/java-for-testers,187,0,115
+1719140837368,880,HomePageRequest,200,OK,Users 1-4,text,false,"The result was the wrong size: It was 93,220 bytes, but should have been less than or equal to 15,000 bytes.",93220,268,2,2,https://artoftesting.com/java-for-testers,673,0,50
+1719140837368,673,HomePageRequest-0,301,Moved Permanently,Users 1-4,text,true,,720,134,2,2,http://artoftesting.com/java-for-testers,673,0,50
+1719140838042,206,HomePageRequest-1,200,OK,Users 1-4,text,true,,92500,134,2,2,https://artoftesting.com/java-for-testers,199,0,115
+1719140837567,2229,HomePageRequest,200,OK,Users 1-5,text,false,"The result was the wrong size: It was 93,169 bytes, but should have been less than or equal to 15,000 bytes.",93169,268,1,1,https://artoftesting.com/java-for-testers,654,0,52
+1719140837567,654,HomePageRequest-0,301,Moved Permanently,Users 1-5,text,true,,720,134,1,1,http://artoftesting.com/java-for-testers,654,0,52
+1719140838222,1574,HomePageRequest-1,200,OK,Users 1-5,text,true,,92449,134,1,1,https://artoftesting.com/java-for-testers,1559,0,122
+1719414753419,3340,HomePageRequest,200,OK,Users 1-2,text,false,"The result was the wrong size: It was 93,209 bytes, but should have been less than or equal to 15,000 bytes.",93209,268,5,5,https://artoftesting.com/java-for-testers,840,0,187
+1719414753799,3216,HomePageRequest,200,OK,Users 1-4,text,false,"The result was the wrong size: It was 93,209 bytes, but should have been less than or equal to 15,000 bytes.",93209,268,5,5,https://artoftesting.com/java-for-testers,741,0,120
+1719414753997,2784,HomePageRequest,200,OK,Users 1-5,text,false,"The result was the wrong size: It was 93,205 bytes, but should have been less than or equal to 15,000 bytes.",93205,268,5,5,https://artoftesting.com/java-for-testers,837,0,126
+1719414753799,741,HomePageRequest-0,301,Moved Permanently,Users 1-4,text,true,,722,134,5,5,http://artoftesting.com/java-for-testers,741,0,120
+1719414753601,3163,HomePageRequest,200,OK,Users 1-3,text,false,"The result was the wrong size: It was 93,207 bytes, but should have been less than or equal to 15,000 bytes.",93207,268,5,5,https://artoftesting.com/java-for-testers,708,0,113
+1719414753997,837,HomePageRequest-0,301,Moved Permanently,Users 1-5,text,true,,724,134,5,5,http://artoftesting.com/java-for-testers,837,0,126
+1719414754541,2474,HomePageRequest-1,200,OK,Users 1-4,text,true,,92487,134,5,5,https://artoftesting.com/java-for-testers,2251,0,429
+1719414754835,1946,HomePageRequest-1,200,OK,Users 1-5,text,true,,92481,134,5,5,https://artoftesting.com/java-for-testers,1922,0,142
+1719414753418,3343,HomePageRequest,200,OK,Users 1-1,text,false,"The result was the wrong size: It was 93,207 bytes, but should have been less than or equal to 15,000 bytes.",93207,268,5,5,https://artoftesting.com/java-for-testers,840,0,187
+1719414753601,708,HomePageRequest-0,301,Moved Permanently,Users 1-3,text,true,,720,134,5,5,http://artoftesting.com/java-for-testers,708,0,113
+1719414753418,853,HomePageRequest-0,301,Moved Permanently,Users 1-1,text,true,,726,134,5,5,http://artoftesting.com/java-for-testers,840,0,187
+1719414754311,2453,HomePageRequest-1,200,OK,Users 1-3,text,true,,92487,134,5,5,https://artoftesting.com/java-for-testers,2423,0,660
+1719414754275,2486,HomePageRequest-1,200,OK,Users 1-1,text,true,,92481,134,5,5,https://artoftesting.com/java-for-testers,2452,0,693
+1719414753419,853,HomePageRequest-0,301,Moved Permanently,Users 1-2,text,true,,724,134,5,5,http://artoftesting.com/java-for-testers,840,0,187
+1719414754275,2484,HomePageRequest-1,200,OK,Users 1-2,text,true,,92485,134,5,5,https://artoftesting.com/java-for-testers,2454,0,694
